@@ -1,0 +1,22 @@
+question_data=[
+    {"text":"What is MY SQL?\n a.A relational database management system \n b.Cross-platform ,open-source and free \n c.All the options are correct \n d.Developed distributed and supported by Oracle Corporation ",
+     "answer":"c"},
+    {"text": "Which MySQL statement is used to select data from a database? \n a.SELECT \n b.GET \n c.OPEN \n d.EXTRACT",
+     "answer":"a"},
+    {"text":"Which MySQL statement is used to update data in a database? \n a.UPDATE \n b.MODIFY\n c.INSERT \n d.SAVE",
+     "answer":"a"},
+    {"text":"Which MySQL statement is used to delete data from a database? \n a.DELETE \n b.REMOVE \n c.COLLAPSE \n d.GET ",
+     "answer":"a"},
+    {"text":"With MySQL, how can you return the number of records in the Persons table? \n a.SELECT LEN(*) FROM Persons  \n b.SELECT COLUMNS(*) FROM Persons\n c.SELECT COUNT(*) FROM Persons \n d.SELECT NO(*) FROM Persons",
+     "answer":"c"},
+    {"text":"Which operator is used to select values within a given range?\n a.IN \n b.RANGE \n c.UNION \n d.BETWEEN",
+     "answer":"d"},
+    {"text":"Which MySQL statement is used to create a database table called 'Customers'? \n a.CREATE DB Customers \n b.CREATE DATABASE TABLE Customers\n c.CREATE TABLE Customers\n d.CREATE DATABASE TAB Customers",
+     "answer":"c"},
+    {"text":"Which MySQL keyword is used to sort the result-set? \n a.SORT \n b.ORDER BY \n c.SORT BY \n d.ORDER",
+     "answer":"b"},
+    {"text":"With MySQL, how do you select all the records from a table named Persons where the value of the column FirstName is Peter?\n a.SELECT [all] FROM Persons WHERE FirstName LIKE 'Peter'\n b.SELECT * FROM Persons WHERE FirstName='Peter'\n c.SELECT * FROM Persons WHERE FirstName<>'Peter'\n d.SELECT [all] FROM Persons WHERE FirstName='Peter'",
+      "answer":"b"},
+    {"text":"Which MySQL statement is used to return only different values?\n a.SELECT DISTINCT \n b.SELECT UNIQUE\nc.SELECT DIFFERENT\n d.SELECT OTHER",
+     "answer":"a"}
+]
